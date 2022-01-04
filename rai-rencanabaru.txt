@@ -1,5 +1,6 @@
 Rencana baru
 -spedaan
+^di Bkt
 -lari
 -renang
 -sepak bola
