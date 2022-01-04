@@ -2,4 +2,4 @@ RAI RESOLUSI
 - Konsisten pekerjaan
 - konsisten gym 2 days/week
 - konsisten moderate carb diet
-- fokus java development
+- fokus python
