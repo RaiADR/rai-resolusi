@@ -1,6 +1,5 @@
 Rencana baru
 -spedaan
-^di Bkt
+^ di jakpus
 -lari
--renang
 -sepak bola
